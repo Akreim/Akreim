@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello World
 
-<!--
-**Akreim/Akreim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer working with JavaScript/TypeScript, Vue, React, Node.js and Java
 
-Here are some ideas to get you started:
+## 📫 Contact
+- **Name:** Akreim
+- **Email:** 895452948@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❤️ Things I Like To Do
+- 🚀 Build cool apps and websites.
+- ⭐ Create open-source tools.
+- 📚 Learn new technologies.
+- 🤝 Help developers.
+
+
