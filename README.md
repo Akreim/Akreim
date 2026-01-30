@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EFAF7DFF&height=260&section=header&text=Akreim%20&fontSize=70&fontAlignY=35&desc=Think%20independently, explore%20the%20truth&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EFAF7DFF&height=260&section=header&text=Akreim%20&fontSize=70&fontAlignY=35&desc=Think%20independently,explore%20the%20truth&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1200&color=F76523&center=true&vCenter=true&width=600&lines=Code+as+a+tool.;Technology+with+long-term+thinking.;Independent+thinking+is+key." />
